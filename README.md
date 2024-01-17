@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Martinez Bros Studios
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Martinez Bros Studios, where passion meets play, and innovation fuels imagination. We are a dynamic gaming company dedicated to creating unforgettable gaming experiences that transport players to new worlds, challenge their skills, and ignite their sense of adventure.
 
-## Available Scripts
+## Our Story
 
-In the project directory, you can run:
+Martinez Bros Studios was founded by the visionary duo, Elmer Martinez and Alejandro Torres-Martinez. Growing up with a shared love for video games, the duo dreamed of building a company that would redefine the gaming landscape. In 2010, their dream became a reality when they officially established Martinez Bros Studios.
 
-### `npm start`
+From humble beginnings in their garage, Elmer and Alejandro set out to create games that not only entertained but also resonated with players on a deeper level. Today, the studio stands as a testament to their unwavering commitment to quality, creativity, and a genuine love for gaming.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Our Mission
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+At Martinez Bros Studios, our mission is simple: to craft immersive and engaging gaming experiences that captivate players of all ages. We believe that gaming is more than just a pastime; it's a medium that brings people together, sparks creativity, and pushes the boundaries of what is possible.
 
-### `npm test`
+## What Sets Us Apart
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Innovation: We thrive on pushing the limits of technology and creativity. Our team of talented developers and designers are dedicated to staying ahead of the curve, ensuring that every Martinez Bros Studios game offers something new and exciting.
 
-### `npm run build`
+2. Passion for Gaming: We are gamers at heart. Our love for gaming fuels our commitment to delivering exceptional experiences. From the storyline to the graphics, every element is carefully crafted to evoke emotions and immerse players in our virtual worlds.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Community Engagement: Martinez Bros Studios values the gaming community. We actively seek and listen to feedback, fostering a collaborative relationship with our players. Your input helps shape our games and ensures that we continue to exceed your expectations.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Our Games
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Explore a diverse range of games, each with its own unique universe and gameplay mechanics. From epic adventures to competitive multiplayer experiences, Martinez Bros Studios offers something for every type of gamer.
 
-### `npm run eject`
+Thank you for being a part of the Martinez Bros Studios community. Join us on this exciting journey as we continue to redefine the gaming industry and create memories that last a lifetime.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+GAME ON!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Elmer Martinez and Alejandro Torres-Martinez <p>
+Founders, Martinez Bros Studios
