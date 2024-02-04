@@ -4,7 +4,7 @@ Welcome to Martinez Bros Studios, where passion meets play, and innovation fuels
 
 ## Our Story
 
-Martinez Bros Studios was founded by the visionary duo, Elmer Martinez and Alejandro Torres-Martinez. Growing up with a shared love for video games, the duo dreamed of building a company that would redefine the gaming landscape. In 2010, their dream became a reality when they officially established Martinez Bros Studios.
+Martinez Bros Studios was founded by the visionary duo, Elmer Martinez and Alejandro Torres-Martinez. Growing up with a shared love for video games, the duo dreamed of building a company that would redefine the gaming landscape. In 2023, their dream became a reality when they officially established Martinez Bros Studios.
 
 From humble beginnings in their garage, Elmer and Alejandro set out to create games that not only entertained but also resonated with players on a deeper level. Today, the studio stands as a testament to their unwavering commitment to quality, creativity, and a genuine love for gaming.
 
